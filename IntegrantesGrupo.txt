@@ -1,4 +1,14 @@
+Equipe:
 CRISTIANA DE OLIVEIRA PASSOS - 31456
 RAFAEL DUARTE PINHEIRO BERNARDINO - 31243
 RENAN DIAS DE FREITAS - 31084
 ROBERTO LUIZ VEIGA JUNIOR - 31544
+
+Link para download do projeto:
+https://github.com/robertoveigajunior/Game-Ted-KillTheBubbles
+
+Link para a documentação:
+https://github.com/robertoveigajunior/Game-Ted-KillTheBubbles/blob/master/KilltheBubbles.pdf
+
+Link para APK de instalação do Game - Android:
+https://github.com/robertoveigajunior/Game-Ted-KillTheBubbles/blob/master/killthebubbles.apk
